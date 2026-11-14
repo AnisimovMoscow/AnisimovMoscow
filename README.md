@@ -1,6 +1,6 @@
-<img src="https://github.com/user-attachments/assets/1acc595c-068e-451c-8226-831ed4f3ecf9" width="320" align="right" alt="Гофер с падел-ракеткой и мячом" />
-
 ## Привет, я Антон Анисимов
+
+<img src="https://github.com/user-attachments/assets/1acc595c-068e-451c-8226-831ed4f3ecf9" width="320" align="right" alt="Гофер с падел-ракеткой и мячом" />
 
 Backend-разработчик. Микросервисы и высокие нагрузки:
 моя работа — чтобы графики мониторинга оставались скучными.
